@@ -29,15 +29,15 @@ int main()
             turn++;
             whoWin = Nim();
             //if "whoWin" is true ->scoreUser+1, false-> scoreComp +1
-            //2printf("whowin : %d \n", whoWin);
+            
             if (whoWin)
             {
-                //printf("aa1");
+               
                 scoreUser++;
             }
             else
             {
-                //printf("false1 \n");
+               
                 scoreComp++;
             }
             break;
@@ -45,15 +45,15 @@ int main()
         case 2:
             turn++;
             whoWin = Nim();
-            //printf("whowin : %d \n", whoWin);
+           
             if (whoWin)
             {
-                //printf("aa2");
+                
                 scoreUser++;
             }
             else
             {
-                // printf("false2 \n");
+                
                 scoreComp++;
             }
             break;
@@ -61,16 +61,15 @@ int main()
         case 3:
             turn++;
             whoWin = Nim();
-            //printf("whowin : %d \n", whoWin);
-            //printf("%d", whoWin);
+            
             if (whoWin)
             {
-                //printf("aa3");
+                
                 scoreUser++;
             }
             else
             {
-                //printf("false3 \n");
+                
                 scoreComp++;
             }
             break;
