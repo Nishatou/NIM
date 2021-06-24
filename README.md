@@ -16,6 +16,11 @@ printf("Please select the pile (1, 2, 3) :  ");
         printf("user select pile %d\n", pile);
 ```
 2) Making a NIM function that determind who is the winner 
-3) Then 
+3) Then keep doing untill it all they play 3 times
+4) print out the winner
+
+# Example 
+<img width="298" alt="Screen Shot 2021-06-23 at 9 41 31 PM" src="https://user-images.githubusercontent.com/62785773/123209368-56f39c00-d475-11eb-8385-9e839d6bd054.png">
+
 
 
