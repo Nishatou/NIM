@@ -13,12 +13,15 @@ int main()
     int scoreUser = 0;
     int scoreComp = 0;
     int turn = 0;
+    int num = 0;
 
     while (turn != 3)
     { //keep running for 3 games one game for each pile.
         printf("Please select the pile (1, 2, 3) :  ");
         scanf("%d", &pile);
         printf("user select pile %d\n", pile);
+        num = pile;
+        printf("user select pile %d\n", num);
 
         switch (pile)
         {
