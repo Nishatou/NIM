@@ -5,9 +5,7 @@
 In this version will be played 3 piles of marbles (each pile has its own starting count from 10 to 100). Starting with between 10 and 100 marbles. Two players take turns removing marbles from the pile, and whichever player takes the last marble loses.
 
 Note : Each player must take at least one marble and at most half of the marbles.
-```jsx
 
-```
 
 1) Ask which Pile will be played
 ```jsx
