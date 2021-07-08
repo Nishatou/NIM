@@ -1,8 +1,7 @@
 # NIM
 
-**Description:** The program stimulate game [NIM](https://en.wikipedia.org/wiki/Nim#cite_note-3) between two people in this case will be a player and computer the last one who picked the last marble is the loser in the game.
-
-In this version will be played 3 piles of marbles (each pile has its own starting count from 10 to 100). Starting with between 10 and 100 marbles. Two players take turns removing marbles from the pile, and whichever player takes the last marble loses.
+**Language ysed:** C
+**Description:** The program stimulate game [NIM](https://en.wikipedia.org/wiki/Nim#cite_note-3) Developed a NIM gameplay between the user vs the computer. Both players take turns selecting a number of marbles from the pile with the maximum set to half of the pile. The game will end when one player is left with picking the one remaining marble. There will be three rounds, with whoever wins two rounds as the final winner.
 
 Note : Each player must take at least one marble and at most half of the marbles.
 
