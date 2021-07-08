@@ -1,6 +1,7 @@
 # NIM
 
-**Language ysed:** C
+**Language used:** C
+
 **Description:** The program stimulate game [NIM](https://en.wikipedia.org/wiki/Nim#cite_note-3) Developed a NIM gameplay between the user vs the computer. Both players take turns selecting a number of marbles from the pile with the maximum set to half of the pile. The game will end when one player is left with picking the one remaining marble. There will be three rounds, with whoever wins two rounds as the final winner.
 
 Note : Each player must take at least one marble and at most half of the marbles.
